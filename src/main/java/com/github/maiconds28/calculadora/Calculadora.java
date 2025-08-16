@@ -24,7 +24,7 @@ public class Calculadora {
         subt = primeiroNum - segundoNum;
         multip = primeiroNum * segundoNum;
         divi = primeiroNum / segundoNum;
-
+        
         // Resultados
         System.out.println("\nA soma é: " + soma);
         System.out.println("A subtração do primeiro pelo segundo é: " + subt);
